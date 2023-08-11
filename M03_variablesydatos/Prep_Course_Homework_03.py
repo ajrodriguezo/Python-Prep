@@ -7,15 +7,15 @@
 
 # In[7]:
 
-a=int(1)
-
+a=1
+print(a)
 
 # 2) Imprimir el tipo de dato de la constante 8.5
 
 # In[3]:
 
 
-
+type(8.5)
 
 
 # 3) Imprimir el tipo de dato de la variable creada en el punto 1
@@ -23,14 +23,14 @@ a=int(1)
 # In[8]:
 
 
-
+type(a)
 
 
 # 4) Crear una variable que contenga tu nombre
 
 # In[2]:
 
-
+b="Andres Jacob"
 
 
 # 5) Crear una variable que contenga un número complejo
@@ -38,7 +38,7 @@ a=int(1)
 # In[3]:
 
 
-
+num_com = 1 + 1j
 
 
 # 6) Mostrar el tipo de dato de la variable crada en el punto 5
@@ -46,7 +46,7 @@ a=int(1)
 # In[4]:
 
 
-
+type(num_com)
 
 
 # 7) Crear una variable que contenga el valor del número Pi redondeado a 4 decimales
